@@ -1,0 +1,1 @@
+"""Webcam object detection package."""
