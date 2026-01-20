@@ -63,7 +63,7 @@ export default function LivePage() {
         <header className="header">
           <div>
             <h1 className="sectionTitle">Live Camera</h1>
-            <p className="notice">Point your camera at objects to see detections.</p>
+            <p className="notice">Point your camera at objects to see classifications.</p>
           </div>
           <Link className="backLink" href="/">
             <span>Back to home</span>
